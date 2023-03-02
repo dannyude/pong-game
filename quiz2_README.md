@@ -1,0 +1,1 @@
+# This verion of the quiz uses just the 30 seconds timer for the whole question that the user has to answer. This program was fixed by @TheDevGrapher
